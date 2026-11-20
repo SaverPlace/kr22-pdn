@@ -1,0 +1,14 @@
+{
+  "archive_name": "rubert_model_v2.zip",
+  "release_tag": "v1.0.0",
+  "archive_size_bytes": 658778312,
+  "sha256": "0aae9786de78423b50a8611c3b69b3f2e28b8f32cf9af26e0f2ad910bcbd9fca",
+  "model_directory": "rubert_model_v2",
+  "transformers_version": "4.57.6",
+  "required_labels": [
+    "B-NAME",
+    "I-NAME",
+    "B-SURNAME",
+    "I-SURNAME"
+  ]
+}
